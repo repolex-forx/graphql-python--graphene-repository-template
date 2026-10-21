@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "graphql-python",
+  "repo": "graphene-repository-template",
+  "versions": [
+    {
+      "commit": "35e17a7533d9f8c65c3b5642f7f09e78f53a9fb0",
+      "parsed_at": "2026-10-21T02:50:23.952517+00:00",
+      "filetree": "filetree/35e17a7533d9f8c65c3b5642f7f09e78f53a9fb0.nq.gz",
+      "blobs": [
+        "blob/58d61364c140db26789ef95b9a25a8733eb9b9cc.nq.gz",
+        "blob/efafc686ce6268e90376e7a0c401856927c118ce.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
