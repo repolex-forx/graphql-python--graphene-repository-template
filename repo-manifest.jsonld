@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/graphql-python/graphene-repository-template/commit/35e17a7533d9f8c65c3b5642f7f09e78f53a9fb0",
       "git:hexsha": "35e17a7533d9f8c65c3b5642f7f09e78f53a9fb0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
